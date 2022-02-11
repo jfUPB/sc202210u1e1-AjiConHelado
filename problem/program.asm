@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// pablo zulaica velez
+// 000416037
+// pablo.zulaica@upb.edu.co
 (START)
     @START
     0;JMP
