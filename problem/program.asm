@@ -4,7 +4,7 @@
 (START)
 // declaracion de variables
    
-	@24576// se crea la variable del input del teclado
+	@24576  // se crea la variable del input del teclado
 	d=a
 	@input_teclado
 	m=d
@@ -27,7 +27,7 @@
 
 
 		(tinte_blanco) //detecto que el tinte es blanco se mete al loop de deteccion de tecla f
-			@24575
+		@24575
 	    d=a
 	    @pixel_actual
 	    m=d
